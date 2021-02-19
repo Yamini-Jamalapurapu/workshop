@@ -3,6 +3,7 @@
 void main()
 {
   int a,b,c;
+  printf("Hello");
   printf("Enter a, b values:");
   printf("a=%d ,b=%d",&a,&b);
   c=a+b;
